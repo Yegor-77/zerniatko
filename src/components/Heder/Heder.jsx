@@ -1,3 +1,5 @@
+import { SectionTitle } from "./Heder.module"
+
 export function SevaHeader() {
   return (
     <header>
@@ -25,4 +27,6 @@ export function SevaHeader() {
     </header>
   );
 }
+
+
 
