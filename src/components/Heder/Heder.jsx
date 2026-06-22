@@ -26,4 +26,3 @@ function SevaHeader() {
   );
 }
 
-export default SevaHeader;
