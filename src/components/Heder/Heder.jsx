@@ -1,4 +1,4 @@
-function SevaHeader() {
+export function SevaHeader() {
   return (
     <header>
       <div>

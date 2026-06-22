@@ -1,4 +1,4 @@
-import SevaHeader from "./components/Heder/Heder";
+import { Heder } from "./components/Heder/Heder";
 
 function App() {
   return (
